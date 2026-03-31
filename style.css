@@ -1,46 +1,46 @@
-.navbar-brand img{
-    width: 130px;
-    margin-bottom: -30px;
+.navbar-brand img {
+  width: 130px;
+  margin-bottom: -30px;
 }
 
-.feature-item img{
-    width: 50px;
-    height: 50px;
+.feature-item img {
+  width: 50px;
+  height: 50px;
 }
 
-.main-header{
-    padding-top: 105px;
+.main-header {
+  padding-top: 105px;
 }
 
-.subcribe{
-    background-image: url(./img/IMGBG\ \(1\).png);
-    background-size: cover;
-    background-position: center;
+.subcribe {
+  background-image: url(./img/IMGBG\ \(1\).png);
+  background-size: cover;
+  background-position: center;
 }
 
-footer img{
-    width: 50px;
-    height: 50px;
+footer img {
+  width: 50px;
+  height: 50px;
 }
 
-footer svg{
-    width: 18px;
-    height: 18px;
+footer svg {
+  width: 18px;
+  height: 18px;
 }
 
-footer .social a:nth-child(2){
-    background-color: #c32aa3;
+footer .social a:nth-child(2) {
+  background-color: #c32aa3;
 }
 
-.brand-icon{
-    width: 130px;
+.brand-icon {
+  width: 130px;
 }
 
-.cpr{
-    background-color: #000;
+.cpr {
+  background-color: #000;
 }
 
-.blur-filter{
-    backdrop-filter: blur(8px);
-    background-color: #cccccc18;
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: #cccccc18;
 }
