@@ -35,3 +35,12 @@ footer .social a:nth-child(2){
 .brand-icon{
     width: 130px;
 }
+
+.cpr{
+    background-color: #000;
+}
+
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: #cccccc18;
+}
